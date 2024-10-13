@@ -1,6 +1,5 @@
 # Hugo configuration file
 title: Will Pereira
-baseURL: "https://pereirawill.github.io"
 
 # import hextra as module
 module:
